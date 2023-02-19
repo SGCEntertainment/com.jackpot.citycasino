@@ -12,9 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
   m_Name: RemoteConfigDataStoreAsset
   m_EditorClassIdentifier: 
-  _rsKeyList: '[]'
-  _rsLastCachedKeyList: '[]'
-  _environments: "[\r\n  {\r\n    \"projectId\": \"b3430995-bd4b-465c-ae75-c87c91606604\",\r\n   
-    \"name\": \"production\",\r\n    \"id\": \"13826276-9233-4006-b72d-e243b7ca8f38\",\r\n   
-    \"isDefault\": true,\r\n    \"createdAt\": \"2023-02-19T15:43:53Z\",\r\n    \"updatedAt\":
-    \"2023-02-19T15:43:53Z\"\r\n  }\r\n]"
+  _rsKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"5b9da984-5fda-488b-b382-b53e2e834aab\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"enable\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"629f25d4-7d8c-4dce-8e68-dbdb8facd81d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"target\",\r\n      \"type\": \"string\",\r\n      \"value\": \"\"\r\n   
+    }\r\n  }\r\n]"
+  _rsLastCachedKeyList: "[\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\": \"5b9da984-5fda-488b-b382-b53e2e834aab\"\r\n   
+    },\r\n    \"rs\": {\r\n      \"key\": \"enable\",\r\n      \"type\": \"bool\",\r\n     
+    \"value\": false\r\n    }\r\n  },\r\n  {\r\n    \"metadata\": {\r\n      \"entityId\":
+    \"629f25d4-7d8c-4dce-8e68-dbdb8facd81d\"\r\n    },\r\n    \"rs\": {\r\n     
+    \"key\": \"target\",\r\n      \"type\": \"string\",\r\n      \"value\": \"\"\r\n   
+    }\r\n  }\r\n]"
+  _environments: "[\r\n  {\r\n    \"projectId\": \"27d6dd6e-7761-4b96-9d77-939609bf391d\",\r\n   
+    \"name\": \"production\",\r\n    \"id\": \"8a436014-d421-404f-a311-c41c25790ce9\",\r\n   
+    \"isDefault\": true,\r\n    \"createdAt\": \"2023-02-19T16:33:45Z\",\r\n    \"updatedAt\":
+    \"2023-02-19T16:33:45Z\"\r\n  }\r\n]"
